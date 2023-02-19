@@ -61,6 +61,8 @@ repositories {
 -  Open File ```values -> strings.xml```
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1002938193311715338/1076759629863858296/admob.png"></p>
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1002938193311715338/1076832364648472606/save150.png"></p>
+
 
 ## 📋 License
 This project is licensed under the MIT. See the [LICENSE](https://github.com/GarudaID/android-webview-admod/blob/main/LICENSE) file for details
