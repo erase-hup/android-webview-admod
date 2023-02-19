@@ -57,6 +57,9 @@ repositories {
 -  Open File ```mipmap -> right click -> new -> image asset```
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1002938193311715338/1076386126543196160/mipmap.png"></p>
 
+## How to setup my admob
+-  Open File ```values -> strings.xml```
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1002938193311715338/1076759629863858296/admob.png"></p>
 
 
 ## 📋 License
