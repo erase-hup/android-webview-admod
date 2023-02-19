@@ -19,6 +19,29 @@
      </a>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1002938193311715338/1076382102083354675/Capture.JPG"></p>
 
+### Gradle
+
+```gradle
+repositories {
+        google()
+      //  jcenter()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url 'https://plugins.gradle.org/m2/' }
+        maven { url 'https://jitpack.io' }
+    }
+
+    dependencies {
+
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.13.4, 0.99.99]'
+        classpath 'com.android.tools.build:gradle:7.2.2'
+        classpath 'com.google.gms:google-services:4.3.13'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.1'
+
+    }
+}
+```
+
 ## How to setup
 -  Open File ```Java -> neartool -> semuadapat -> config```
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1002938193311715338/1076383202622586900/confnifg.JPG"></p>
