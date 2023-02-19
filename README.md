@@ -10,7 +10,6 @@
 
 >![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)<br>
 **<android>Build Custom Android Webview + Admob and Splashscreen :</ins>**<br>
-**- Note : Don't forgot I don't give a fuck about what you do with my code, I am obviously not responsable of shit you do ok ? 😉**<br>
 **- Note : If you get error from my code. please contact us in discord or join my discord**
 
 <p align="center"><br>
@@ -62,3 +61,10 @@ repositories {
 
 ## 📋 License
 This project is licensed under the MIT. See the [LICENSE](https://github.com/GarudaID/android-webview-admod/blob/main/LICENSE) file for details
+
+## Author
+
+**Custom Build Android Webview by** © [GarudaID - Near Hoshinova](https://github.com/GarudaID).  
+Don't forgot I don't give a fuck about what you do with my code, I am obviously not responsable of shit you do ok ? 😉
+
+> GitHub [@GarudaID](https://github.com/GarudaID)
