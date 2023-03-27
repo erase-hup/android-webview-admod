@@ -1,33 +1,42 @@
 {
   "project_info": {
-    "project_number": "269933216751",
-    "project_id": "speedytestte",
-    "storage_bucket": "speedytestte.appspot.com"
+    "project_number": "683962136182",
+    "firebase_url": "https://hdwallpaper-5e4f3-default-rtdb.firebaseio.com",
+    "project_id": "hdwallpaper-5e4f3",
+    "storage_bucket": "hdwallpaper-5e4f3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:269933216751:android:75ba64acf92c845f7aac1a",
+        "mobilesdk_app_id": "1:683962136182:android:3131d0b42823c119775157",
         "android_client_info": {
-          "package_name": "com.company.speedtesttryit"
+          "package_name": "com.nearmo.streaming"
         }
       },
       "oauth_client": [
         {
-          "client_id": "269933216751-lgrldskrr2l244br5hnhu7dfledvkuq9.apps.googleusercontent.com",
+          "client_id": "683962136182-19l2r0qlqjlip3fhouap3fcl11n7ig87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nearmo.streaming",
+            "certificate_hash": "12da878683901ded6a91b37c4aefb46c14d8f234"
+          }
+        },
+        {
+          "client_id": "683962136182-apaoq70a9s09lt0acfps83nsqpg9p53i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDsWzy8_Xs7MfsTfNckEn_6IgEEf0yN8Q4"
+          "current_key": "AIzaSyDRdGvjfbUkNu3_nKTmyjhnIRKLvcef-r0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "269933216751-lgrldskrr2l244br5hnhu7dfledvkuq9.apps.googleusercontent.com",
+              "client_id": "683962136182-9scvpnqm2mar1nd2bgu9dm8ah564p6eg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -36,27 +45,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:269933216751:android:bd67d3942a078ee77aac1a",
+        "mobilesdk_app_id": "1:683962136182:android:5bdc23caf3a529aa775157",
         "android_client_info": {
-          "package_name": "com.company.yaparakazan"
+          "package_name": "neartool.semuadapat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "269933216751-lgrldskrr2l244br5hnhu7dfledvkuq9.apps.googleusercontent.com",
+          "client_id": "683962136182-o95koi78bdh5vfuugu1qiv9kdcebn188.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neartool.semuadapat",
+            "certificate_hash": "12da878683901ded6a91b37c4aefb46c14d8f234"
+          }
+        },
+        {
+          "client_id": "683962136182-apaoq70a9s09lt0acfps83nsqpg9p53i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDsWzy8_Xs7MfsTfNckEn_6IgEEf0yN8Q4"
+          "current_key": "AIzaSyDRdGvjfbUkNu3_nKTmyjhnIRKLvcef-r0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "269933216751-lgrldskrr2l244br5hnhu7dfledvkuq9.apps.googleusercontent.com",
+              "client_id": "683962136182-9scvpnqm2mar1nd2bgu9dm8ah564p6eg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
