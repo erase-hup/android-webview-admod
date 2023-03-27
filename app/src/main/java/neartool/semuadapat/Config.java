@@ -14,10 +14,10 @@ public class Config {
      * Configuration ur link webview
      */
     // Domain host and subdomain without any https:// or http:// prefixes (e.g., "www.example.org")
-    public static final String HOST = "dixies.site"; //put ur website link
+    public static final String HOST = "danis.manlik.com.tr"; //put ur website link
 
     // Your URL including https:// or http:// prefix and including www. or any required subdomain (e.g., "https://www.example.org")
-    public static String HOME_URL = "https://dixies.site"; //put ur website link
+    public static String HOME_URL = "https://danis.manlik.com.tr/"; //put ur website link
 
     // Set to "false" to disable the progress spinner/loading spinner
     public static final boolean ACTIVATE_PROGRESS_BAR = true;
@@ -60,10 +60,10 @@ public class Config {
     public static final boolean SPLASH_SCREEN_ACTIVATED = true;
 
     //Set the splash screen timeout time in milliseconds (the loading sign screen will show after this time duration if the home URL still has some loading to do)
-    public static final int SPLASH_TIMEOUT = 5000;
+    public static final int SPLASH_TIMEOUT = 3000;
 
     //Set to "true" to show the splash screen until the home URL has finished loading (overrides SPLASH_TIMEOUT)
-    public static final boolean REMAIN_SPLASH_OPTION = false;
+    public static final boolean REMAIN_SPLASH_OPTION = true;
 
     //Set the splash screen image size with respect to the device's smallest width/height; range in percentage [0-100]; Caution: value  = 0 will hide the image completely
     public static final double SCALE_SPLASH_IMAGE = 55;
@@ -72,7 +72,7 @@ public class Config {
     static boolean blackStatusBarText = false;
 
     //Set to "true" to prevent the device from going into sleep while the app is active
-    public static final boolean PREVENT_SLEEP = false;
+    public static final boolean PREVENT_SLEEP = true;
 
     //Set to "true" to enable navigation by swiping left or right to move back or forward a page
     public static final boolean ENABLE_SWIPE_NAVIGATE = true;
@@ -146,10 +146,10 @@ public class Config {
      * Ad Options
      */
     //Set to "true" if you want to display AdMob banner ads (set the AdMob IDs in the strings.xml file)
-    public static final boolean SHOW_BANNER_AD = true;
+    public static final boolean SHOW_BANNER_AD = false;
 
     //Set to "true" if you want to display AdMob fullscreen interstitial ads after X website clicks (set the AdMob IDs in the strings.xml file)
-    public static final boolean SHOW_FULL_SCREEN_AD = true;
+    public static final boolean SHOW_FULL_SCREEN_AD = false;
 
     //X website clicks for AdMob interstitial ads (set the AdMob IDs in the strings.xml file)
     public static final int SHOW_AD_AFTER_X = 4;
@@ -190,7 +190,7 @@ public class Config {
      */
 
     //Set to "true" to enable the Manual Cookie Sync tool
-    public static final boolean MANUAL_COOKIE_SYNC = false;
+    public static final boolean MANUAL_COOKIE_SYNC = true;
 
     // Define how often the cookies should sync with the app in milliseconds (ms)
     public static final int COOKIE_SYNC_TIME = 5000;
